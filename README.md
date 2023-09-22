@@ -1,5 +1,5 @@
 # Notice (as of 2023-09-22)
-Added <a href='https://ko-fi.com/shiro39' target='_blank'><img height='35' style='border: 0px; height: 46px;' src='[[https://az743702.vo.msecnd.net/cdn/kofi3.png]https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Pornhub-logo.svg/150px-Pornhub-logo.svg.png)](https://ei.phncdn.com/pics/logos/8561.png?cache=2023092010)v=0' border='0' alt='Buy Me a Coffee at ko-fi.com'></a>
+Added <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Pornhub-logo.svg/150px-Pornhub-logo.svg.png" height="65" alt="filebrowser" /> support.
 # Notice (as of 2023-09-20)
 Qbit torrent upgraded to the latest version.
 
