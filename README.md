@@ -1,5 +1,5 @@
 # Notice (as of 2023-09-22)
-Added <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Pornhub-logo.svg/150px-Pornhub-logo.svg.png" height="65" alt="filebrowser" /> support.
+Added PornHub support.
 # Notice (as of 2023-09-20)
 Qbit torrent upgraded to the latest version.
 
