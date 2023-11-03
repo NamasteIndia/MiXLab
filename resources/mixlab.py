@@ -15,7 +15,7 @@ tokens = {
 
 
 class ngrok:
-  def __init__(self, TOKEN=None, USE_FREE_TOKEN=True,
+  def __init__(self, TOKEN=None, USE_FREE_TOKEN=False,
                service=[['Service1', 80, 'tcp'], ['Service2', 8080, 'tcp']],
                region='us',
                dBug=[f"{HOME}/.ngrok2/ngrok.yml", 4040]):
