@@ -21,7 +21,7 @@ class ngrok:
                dBug=[f"{HOME}/.ngrok2/ngrok.yml", 4040]):
     self.region = region
     self.configPath, self.dport = dBug
-    self.TOKEN = TOKEN
+    self.TOKEN = "2VquFPBm3lvWUyPkdt9NPPhSAe6_7nQNMwJmWhGiASYyMCaiw"
     self.USE_FREE_TOKEN = USE_FREE_TOKEN
     self.service = service
     if USE_FREE_TOKEN:
@@ -49,9 +49,9 @@ class ngrok:
             USR_Api = "your"
             clear_output()
         else:
-            USR_Api = "your"
+            USR_Api = "2VquFPBm3lvWUyPkdt9NPPhSAe6_7nQNMwJmWhGiASYyMCaiw"
     else:
-        USR_Api = "mind"
+        USR_Api = "2VquFPBm3lvWUyPkdt9NPPhSAe6_7nQNMwJmWhGiASYyMCaiw"
         tokens["mind"] = TOKEN
     return tokens[USR_Api]
 
