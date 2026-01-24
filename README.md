@@ -13,6 +13,13 @@ Click <a href="https://colab.research.google.com/github/shirooo39/MiXLab/blob/ma
 Click <a href="https://colab.research.google.com/github/shirooo39/MiXLab/blob/master/MiXLabLite.ipynb" target="_blank">HERE</a> for the "Lite" version.  
 (haven't been updated for quite a long time, but should still work just fine.)
 
+# Features
+## Torrent Clients
+- **qBittorrent Enhanced Edition**: Now using the undetectable fork (qBittorrent-Enhanced-Edition by c0re100) with features like auto-ban for suspicious peers and better tracker support. Choose between official or enhanced variant.
+- **rTorrent**: Lightweight torrent client with Flood web interface for advanced users.
+- **Deluge**: Alternative torrent client with extensive plugin support.
+- **μTorrent**: Classic torrent client option.
+
 
 # Thanks to
 These amazing people whose codes are used in this notebook and/or outside the notebook.
